@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Simple Blog App MVVM</string>
+
+    <string name="developed_by_jesse_okoro">Developed by Jesse Okoro</string>
+    <string name="nice_write_up">Nice Write up</string>
+
+    <string name="comment">Comment</string>
+    <string name="title">Title</string>
+    <string name="user_id">user Id</string>
+    <string name="cancel">Cancel</string>
+    <string name="add_post">Add Post</string>
+    <string name="write_something">Write Something...</string>
+    <string name="add_new_post">Add New Post</string>
+    <string name="breaking_news">Breaking News!!!</string>
+    <string name="search_by_user_id">Search by User Id</string>
+    <string name="comment_id">Comment Id : %s</string>
+    <string name="comments">Comments</string>
+    <string name="comment_hint">non et atque occaecati deserunt quas accusantium unde odit nobis qui voluptatem quia voluptas consequuntur itaque dolor et qui rerum deleniti ut occaecati</string>
+    <string name="add_comment">Add Comment</string>
+    <string name="new_comment">New Comment</string>
+</resources>
